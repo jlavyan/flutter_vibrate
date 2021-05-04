@@ -18,3 +18,4 @@ flutter:
     androidPackage: flutter.plugins.vibrate
     pluginClass: VibratePlugin
 
+
